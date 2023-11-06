@@ -1,2 +1,5 @@
 #!/bin/bash
+echo su
 echo sudo apt install kde-standard
+#Dock Customization
+#sudo apt install dconf-editor
